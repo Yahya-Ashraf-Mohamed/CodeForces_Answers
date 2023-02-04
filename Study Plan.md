@@ -90,42 +90,28 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [X] reverse() - reverses the list
         - [X] remove_value(value) - removes the first item in the list with this value
-    - [X] Doubly-linked List (Two pointers Head & Tail)
+    - [X] Doubly-linked List (No need for Implementation)
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
-        - [X] size() - returns number of data elements in list
-        - [X] empty() - bool returns true if empty
-        - [X] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [X] push_front(value) - adds an item to the front of the list
-        - [X] pop_front() - remove front item and return its value
-        - [X] push_back(value) - adds an item at the end
-        - [X] pop_back() - removes end item and returns its value
-        - [X] front() - get value of front item
-        - [X] back() - get value of end item
-        - [X] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [X] erase(index) - removes node at given index
-        - [X] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [X] reverse() - reverses the list
-        - [X] remove_value(value) - removes the first item in the list with this value
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-    - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
-    - [ ] Will not implement. Implementing with array is trivial
+    - [X] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [X] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
+    - [X] Implementing with array
 
 - ### Queue
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
-    - [ ] Implement using linked-list, with tail pointer:
+    - [X] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [X] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [X] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
+    - [X] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [X] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [ ] Cost:
+    - [X] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])

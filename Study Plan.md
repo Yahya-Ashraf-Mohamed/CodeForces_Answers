@@ -118,7 +118,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
 
-- ### Hash table
+- ### Hash table (Maps)
     - [ ] Videos:
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -143,6 +143,48 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - exists(key)
         - get(key)
         - remove(key)
+
+## STL (Standard Template Library Full Tutorial Using C++ In Arabic)
+
+- ### Vector
+    - [X] [#01 Vector part 1](https://youtu.be/AMnultLTdlI)
+    - [X] [#02 Vector part 2](https://youtu.be/4b3Glt6zWY4)
+    - [X] [#03 Vector part 3](https://youtu.be/4om6SL_cF50)
+
+- ### Deque
+    - [ ] [#04 Deque](https://youtu.be/PPFhtX23oXc)
+
+- ### List
+    - [ ] [#05 List](https://youtu.be/U2oXdm4PfeQ)
+
+- ### Forward List
+    - [ ] [#06 Forward List](https://youtu.be/hp7BCTdEDFs)
+
+- ### Pair
+    - [ ] [#07 Pair](https://youtu.be/ucQnEO0MSSs)
+
+- ### Set
+    - [ ] [#08 Set](https://youtu.be/Yg7dpbXhhlY)
+
+- ### Map
+    - [ ] [#09 Map part 1](https://youtu.be/cQ5psV2P2iU)
+    - [ ] [#10 Map part 2](https://youtu.be/rWnu4r8fubk)
+
+- ### Unordered Set & Unordered Multiset
+    - [ ] [#11 Unordered Set & Unordered Multiset](https://youtu.be/m9t4ORIMCro)
+    
+- ### Unordered Map & Unordered Multimap
+    - [ ] [#12 Unordered Map & Unordered Multimap](https://youtu.be/q2ytLwNbR4w)
+
+- ### Stack
+    - [X] [#13 Stack](https://youtu.be/9r7IDtX5KS4)
+
+- ### Queue
+    - [X] [#14 Queue](https://youtu.be/iLJXB9Daeq8)
+
+- ### Priority Queue
+    - [X] [#15 Priority Queue](https://youtu.be/0zr0JqSw7ic)
+
 
 ## More Knowledge
 
@@ -405,6 +447,48 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] count connected components in a graph
         - [ ] list strongly connected components
         - [ ] check for bipartite graph
+
+## Review
+- ### Data Structures
+    - [ ] Data Structures Full Course In Arabic:
+        - [ ] [37 videos 15 Min. for each](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+        - [X] [#00 - Introduction]()
+        - [X] [#01 - Complexity]()
+        - [ ] [#02 - Introduction To Stack]()
+        - [ ] [#03 - Stack Implementation]()
+        - [ ] [#04 - Stack Using Linked List(Linked Stack)-Part 1]()
+        - [ ] [#05 - Stack Using Linked List Implementation]()
+        - [ ] [#06 - Balanced Parentheses Using Stack {([ ])}]()
+        - [ ] [#07 - Expression Evaluation Using Stack]()
+        - [ ] [#08 - Infix To Postfix Using Stack]()
+        - [ ] [#09 - Queue Introduction(Simple Queue vs Circular Queue Using Array)]()
+        - [ ] [#010 - Queue Implementation Using Circular Array]()
+        - [ ] [#011 - Queue Using Linked List With Implementation]()
+        - [ ] [#012 - Array Based List With Implementation]()
+        - [ ] [#013 - Introduction To Linked List]()
+        - [ ] [#014 - Linked List Insert-First Insert-Last Insert-At-Position With Implementation]()
+        - [ ] [#015 - Linked List Remove-First Remove-Last Remove-Key With Implementation]()
+        - [ ] [#016 - Linked List Reverse,Search]()
+        - [ ] [#017 - Doubly Linked List Insert(First-Last-At),Remove(First-Last-At)]()
+        - [ ] [#018 - Introduction To Trees]()
+        - [ ] [#019 - Binary Tree,Types Of Binary Tree:Full,Complete,Perfect,Balanced,Adegenerate]()
+        - [ ] [#020 - Binary Tree Traversal(Pre-In-Post-Level Order) With Implementation]()
+        - [ ] [#021 - Binary Search Tree(Insert-Delete-Search),Find:Successor-Predecessor-Max-Min]()
+        - [ ] [#022 - AVL Trees (Hieght Balanced Tree): Insertion , Rotation(LL,RR,LR,RL)]()
+        - [ ] [#023 - Huffman Coding Algorithm]()
+        - [ ] [#024 - Selection Sort Algorithm With Implementation]()
+        - [ ] [#025 - Bubble Sort Algorithm With Implementation]()
+        - [ ] [#026 - Insertion Sort Algorithm With Implementation]()
+        - [ ] [#027 - Merge Sort Algorithm With Implementation]()
+        - [ ] [#028 - Quick Sort Algorithm With Implementation]()
+        - [ ] [#029 - Heap Sort Algorithm(Heapify,Build heap,Max-Min heap) With Implementation]()
+        - [ ] [#030 - Linear Search (Sequential Search) With Implementation]()
+        - [ ] [#031 - Binary Search Algorithm With Implementation]()
+        - [ ] [#032 - Hashing (Hash Table)]()
+        - [ ] [#033 - Introduction To Graph,Types Of Graph and Representation]()
+        - [ ] [#034 - Breadth First Search Algorithm (BFS)]()
+        - [ ] [#035 - Depth First Search Algorithm (DFS)]()
+        - [ ] [#036 - Dijkstra's(Shortest Path Algorithm)]()
 
 ## Even More Knowledge
 
